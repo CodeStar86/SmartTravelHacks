@@ -1,0 +1,6 @@
+# Supabase local/config settings for SmartTravelHacks.
+# Link this folder to your Supabase project before deploying:
+#   supabase link --project-ref YOUR_PROJECT_REF
+
+[functions.server]
+verify_jwt = false

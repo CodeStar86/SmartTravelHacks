@@ -1,0 +1,104 @@
+{
+  "generatedAt": "2026-05-05T22:40:45.587Z",
+  "siteUrl": "https://www.smarttravelhacks.com",
+  "posts": [],
+  "categories": [
+    {
+      "name": "Europe",
+      "slug": "europe",
+      "id": "europe",
+      "post_count": 0
+    },
+    {
+      "name": "Southeast Asia",
+      "slug": "southeast-asia",
+      "id": "southeast-asia",
+      "post_count": 0
+    },
+    {
+      "name": "Central, East and South Asia",
+      "slug": "central-east-and-south-asia",
+      "id": "central-east-and-south-asia",
+      "post_count": 0
+    },
+    {
+      "name": "North America",
+      "slug": "north-america",
+      "id": "north-america",
+      "post_count": 0
+    },
+    {
+      "name": "South America",
+      "slug": "south-america",
+      "id": "south-america",
+      "post_count": 0
+    },
+    {
+      "name": "Central America",
+      "slug": "central-america",
+      "id": "central-america",
+      "post_count": 0
+    },
+    {
+      "name": "Oceania",
+      "slug": "oceania",
+      "id": "oceania",
+      "post_count": 0
+    },
+    {
+      "name": "Africa",
+      "slug": "africa",
+      "id": "africa",
+      "post_count": 0
+    },
+    {
+      "name": "Travel Insurance",
+      "slug": "travel-insurance",
+      "id": "travel-insurance",
+      "post_count": 0
+    },
+    {
+      "name": "The Best Gear",
+      "slug": "the-best-gear",
+      "id": "the-best-gear",
+      "post_count": 0
+    },
+    {
+      "name": "Hostel Life 101",
+      "slug": "hostel-life-101",
+      "id": "hostel-life-101",
+      "post_count": 0
+    },
+    {
+      "name": "Book A Hotel",
+      "slug": "book-a-hotel",
+      "id": "book-a-hotel",
+      "post_count": 0
+    },
+    {
+      "name": "Find Cheap Flights",
+      "slug": "find-cheap-flights",
+      "id": "find-cheap-flights",
+      "post_count": 0
+    },
+    {
+      "name": "Budget Backpacking",
+      "slug": "budget-backpacking",
+      "id": "budget-backpacking",
+      "post_count": 0
+    },
+    {
+      "name": "Travel Tips",
+      "slug": "travel-tips",
+      "id": "travel-tips",
+      "post_count": 0
+    },
+    {
+      "name": "Best Travel Jobs",
+      "slug": "best-travel-jobs",
+      "id": "best-travel-jobs",
+      "post_count": 0
+    }
+  ],
+  "tags": []
+}
